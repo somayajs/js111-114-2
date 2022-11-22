@@ -1,0 +1,3 @@
+- Form with three inputs fields and one select box
+- When user reload the page he will not lose the inputs he wrote in inputs field or losing the selected he choose in the select box
+- When user close  reopen the page he must loses his choices and go back to default values
